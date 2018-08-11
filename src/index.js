@@ -93,7 +93,7 @@ class Board extends React.Component {
     }
   }
 
-
+//kappa
 
 function calculateWinner(squares) {
     const lines = [
