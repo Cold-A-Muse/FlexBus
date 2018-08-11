@@ -94,7 +94,7 @@ class Board extends React.Component {
   }
 
 //kappa
-
+//killua
 function calculateWinner(squares) {
     const lines = [
       [0, 1, 2],
