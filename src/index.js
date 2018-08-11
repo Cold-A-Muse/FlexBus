@@ -93,8 +93,7 @@ class Board extends React.Component {
     }
   }
 
-//kappa
-//killua
+// boku no pico
 function calculateWinner(squares) {
     const lines = [
       [0, 1, 2],
