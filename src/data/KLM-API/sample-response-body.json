@@ -1,0 +1,28 @@
+{
+    "cabinClass": "ECONOMY",
+    "discountCode": "",
+    "passengerCount": {
+        "YOUNG_ADULT": 0,
+        "INFANT": 0,
+        "CHILD": 0,
+        "ADULT": 1 
+    },
+    "currency": "EUR",
+    "minimumAccuracy": "",
+    "requestedConnections": [
+        {
+            "origin": {
+                "airport": {
+                    "code": "AMS"
+                }
+            },
+            "destination": {
+                "airport": {
+                    "code": "BCN"
+                }
+            },
+            "departureDate": "2018-09-13"
+        }
+    ],
+    "shortest": true
+}
